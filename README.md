@@ -2,6 +2,8 @@
 
 **Goal**: To identify who is flying, where they sit, how nine key service areas perform, which areas delight or disappoint, and how these factors combine to shape overall satisfaction and future retention.
 
+**Description**: The dataset contains 129,880 individual flight-experience records collected from a passenger satisfaction survey. Each row represents one completed trip and pairs operational data (delays, distance, cabin class) with attributes (gender, generation, travel purpose, customer type) and detailed service-quality evaluations across 14 touchpoints such as seat comfort, baggage handling, Wi-Fi, and online booking. All service items are scored on a 0 to 5.
+
 **Skills**: data analysis, data visualization
 
 **Data Viz**: [Power BI](https://github.com/jpmontuya/airline-passenger-satisfaction-report/blob/3b6a332c3cccef97296beb9e047f38ecf84192ab/airline%20passenger%20satisfaction%20report.pbix)
